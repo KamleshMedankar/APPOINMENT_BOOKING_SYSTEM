@@ -1,0 +1,15 @@
+{
+  "server": {
+    "port": "3030"
+  },
+  "redis": {
+    "host": "localhost:6379"
+  },
+  "mysql": {
+    "address":"127.0.0.1:3306",
+    "user": "root",
+    "password": "root",
+    "dbname": "appointment_booking",
+    "net":"tcp"
+  }
+}
